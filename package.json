@@ -1,0 +1,17 @@
+{
+  "name": "milestone-1",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shakir Hussain",
+  "license": "MIT",
+  "description": "This is a Static Resume Builder Milestone-1 of Hackathon",
+  "devDependencies": {
+    "@types/node": "^22.5.5"
+  }
+}
